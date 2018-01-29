@@ -1,0 +1,4 @@
+Machine learning models can be classified into the following three types based on the task performed and the nature of the output:
+1. Regression: The output variable to be predicted is a continuous variable, e.g. scores of a student
+2. Classification: The output variable to be predicted is a categorical variable, e.g. incoming emails as spam or ham
+3. Clustering: No pre-defined notion of label allocated to groups/clusters formed, e.g. customer segmentation for generating discounts
